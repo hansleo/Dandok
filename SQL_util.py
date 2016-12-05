@@ -6,7 +6,7 @@ import sys
 # sys.setdefaultencoding('utf-8')
 
 
-conn = pymysql.connect(host='localhost', port=3306, user='root', passwd='403', db='dandock', charset='utf8')
+conn = pymysql.connect(host='localhost', port=, user=, passwd=, db=, charset='utf8')
 
 
 def select(data, table, option=''):
