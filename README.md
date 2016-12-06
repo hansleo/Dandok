@@ -1,2 +1,2 @@
 # Dandok
-단독기사만 수집하는 Web-Crawler
+It's a Web-Crawler that collects exclusive articles from NAVER.
